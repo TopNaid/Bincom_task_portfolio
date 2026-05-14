@@ -1,0 +1,13 @@
+.pictures {
+            height: 100vh;
+            width: 100vw;
+        }
+
+        .img-container {
+            display: grid;
+            gap: 10px;
+            grid-template-columns: auto auto;
+            padding-top: 50px;
+            align-items: center;
+            place-items: center;
+        }
